@@ -4,7 +4,7 @@ Toggle hidden Instagram privacy settings that aren't exposed in the app.
 
 **What it does:**
 
-- **Hide followers/following list** — your follower and following counts and lists become invisible to other users.
+- **Hide followers/following list** — your follower and following lists become "hidden due to privacy" to other users.
 - **Hide from others' lists** — you stop appearing in other people's follower/following lists.
 
 These are real server-side settings on Instagram's internal API. They persist across sessions and devices — this script just flips them.
